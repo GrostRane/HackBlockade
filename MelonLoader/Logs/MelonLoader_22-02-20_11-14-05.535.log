@@ -1,0 +1,552 @@
+[11:14:05.659] ------------------------------
+[11:14:05.659] MelonLoader v0.4.3 Open-Beta
+[11:14:05.660] OS: Windows 10
+[11:14:05.660] Hash Code: 102525710250100101995010198525052985355511005751519810010199999948994956
+[11:14:05.661] ------------------------------
+[11:14:05.662] Name: BlockadeClassic
+[11:14:05.663] Developer: Novalink
+[11:14:05.664] Unity Version: 2020.3.22
+[11:14:05.665] Game Type: Il2Cpp
+[11:14:05.665] Game Arch: x86
+[11:14:05.667] ------------------------------
+
+[11:14:14.008] Preferences Loaded!
+[11:14:14.289] Loading Plugins...
+
+[11:14:14.339] ------------------------------
+[11:14:14.340] No Plugins Loaded!
+[11:14:14.340] ------------------------------
+
+[11:14:16.326] Loading Il2CppAssemblyGenerator...
+[11:14:17.515] Contacting RemoteAPI...
+[11:14:18.501] ForceDumperVersion = null
+[11:14:18.501] ForceUnhollowerVersion = null
+[11:14:18.502] ObfuscationRegex = null
+[11:14:18.502] MappingURL = null
+[11:14:18.503] MappingFileSHA512 = null
+[11:14:18.504] Unity Dependencies are up to date. No Download Needed.
+[11:14:18.505] Cpp2IL is up to date. No Download Needed.
+[11:14:18.506] Il2CppAssemblyUnhollower is up to date. No Download Needed.
+[11:14:18.507] Checking GameAssembly...
+[11:14:18.893] Assembly is up to date. No Generation Needed.
+[11:14:21.012] Game Version: 1.1
+
+[11:14:21.014] Loading Support Module...
+
+[11:14:22.299] Loading Mods...
+[11:14:23.122] [ERROR] Failed to Load Assembly for C:\Program Files (x86)\Steam\steamapps\common\BLOCKADE Classic\Mods\mcs.dll: No Compatibility Layer Found!
+
+[11:14:24.632] ------------------------------
+[11:14:24.634] 2 Mods Loaded
+[11:14:24.635] ------------------------------
+[11:14:24.636] BypassAntiCheat v1.1.0
+[11:14:24.638] by :))))))
+[11:14:24.662] SHA256 Hash: 2138c0c7dcf86d6cd9d4f825d4f22528580acb89e88db137e8f8ecae4ab56468
+[11:14:24.663] ------------------------------
+[11:14:24.664] Immortal v2.1
+[11:14:24.665] by Immortal
+[11:14:24.668] SHA256 Hash: ddfb77ef9087d1daeb78c7e45bf994474653bdbd4515abd4374ab7e2e24a2eed
+[11:14:24.669] ------------------------------
+[11:14:32.885] [BypassAntiCheat] Hide VERSION.dll
+[11:14:32.888] [BypassAntiCheat] Hide version.dll
+[11:14:32.888] [BypassAntiCheat] Hide Bootstrap.dll
+[11:14:32.889] [BypassAntiCheat] Hide mono-2.0-bdwgc.dll
+[11:14:32.890] [BypassAntiCheat] Hide MonoPosixHelper.dll
+[11:14:32.891] [BypassAntiCheat] Hide bHaptics.x86.dll
+[11:14:32.892] [BypassAntiCheat] Hide HideDll.dll
+[11:14:33.648] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:46.447] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:46.519] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:46.526] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:46.727] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.169] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.181] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.189] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.192] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.195] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.201] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.205] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.208] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.288] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.294] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.298] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.302] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.306] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.312] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.317] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.321] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.326] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.330] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.334] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.337] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.343] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.346] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.350] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.354] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.384] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.455] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.459] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.462] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.466] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.471] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.484] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.489] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.493] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.496] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.502] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.505] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.508] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.511] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.519] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.523] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.527] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.534] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.539] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.542] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.545] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.551] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.554] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.558] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.564] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.567] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.571] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.574] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.577] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.583] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.586] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.589] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.593] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.598] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.602] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.605] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.608] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.613] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.617] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.620] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.624] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.630] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.634] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.830] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.836] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.840] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.844] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.850] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.854] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.857] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.860] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.865] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.869] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.872] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.875] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.880] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.884] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.888] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.890] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.893] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.899] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.903] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.906] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.908] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.914] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.917] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.921] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.924] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:47.931] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:14:48.063] [Immortal] [ERROR] System.NotImplementedException: The method or operation is not implemented.
+  at SquadHackLite.SquadHackLoader.OnUpdate () [0x002fc] in <95a59990143a4ae4aee24828b7600382>:0 
+  at MelonLoader.MelonHandler+<>c.<OnUpdate>b__48_0 (MelonLoader.MelonBase x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler+<>c__DisplayClass52_0.<InvokeMelonMethod>b__1 (MelonLoader.MelonMod x) [0x00000] in <67e16b0234254e2183a98652371f8451>:0 
+  at MelonLoader.MelonHandler.InvokeMelonMethod[T] (System.Collections.Generic.List`1[T]& melons, MelonLoader.MelonHandler+InvokeMelonMethodDelegate`1[T] method, System.Boolean remove_failed) [0x00032] in <67e16b0234254e2183a98652371f8451>:0 
+[11:27:30.972] Preferences Saved!

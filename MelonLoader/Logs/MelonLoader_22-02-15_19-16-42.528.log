@@ -1,0 +1,49 @@
+[19:16:42.586] ------------------------------
+[19:16:42.586] MelonLoader v0.4.3 Open-Beta
+[19:16:42.587] OS: Windows 10
+[19:16:42.587] Hash Code: 102525710250100101995010198525052985355511005751519810010199999948994956
+[19:16:42.588] ------------------------------
+[19:16:42.588] Name: BlockadeClassic
+[19:16:42.589] Developer: Novalink
+[19:16:42.589] Unity Version: 2020.3.22
+[19:16:42.590] Game Type: Il2Cpp
+[19:16:42.590] Game Arch: x86
+[19:16:42.590] ------------------------------
+
+[19:16:46.142] Preferences Loaded!
+[19:16:46.245] Loading Plugins...
+
+[19:16:46.264] ------------------------------
+[19:16:46.265] No Plugins Loaded!
+[19:16:46.266] ------------------------------
+
+[19:17:48.968] Loading Il2CppAssemblyGenerator...
+[19:17:51.516] Contacting RemoteAPI...
+[19:17:53.905] ForceDumperVersion = null
+[19:17:53.906] ForceUnhollowerVersion = null
+[19:17:53.906] ObfuscationRegex = null
+[19:17:53.907] MappingURL = null
+[19:17:53.907] MappingFileSHA512 = null
+[19:17:53.909] Unity Dependencies are up to date. No Download Needed.
+[19:17:53.910] Cpp2IL is up to date. No Download Needed.
+[19:17:53.913] Il2CppAssemblyUnhollower is up to date. No Download Needed.
+[19:17:53.917] Checking GameAssembly...
+[19:17:54.240] Assembly is up to date. No Generation Needed.
+[19:17:56.986] Game Version: 1.1
+
+[19:17:56.989] Loading Support Module...
+
+[19:18:01.056] Loading Mods...
+[19:18:02.008] [ERROR] Failed to Load Assembly for C:\Program Files (x86)\Steam\steamapps\common\BLOCKADE Classic\Mods\mcs.dll: No Compatibility Layer Found!
+
+[19:18:02.887] ------------------------------
+[19:18:02.889] 2 Mods Loaded
+[19:18:02.890] ------------------------------
+[19:18:02.891] BypassAntiCheat v1.1.0
+[19:18:02.893] by :))))))
+[19:18:02.897] SHA256 Hash: 2138c0c7dcf86d6cd9d4f825d4f22528580acb89e88db137e8f8ecae4ab56468
+[19:18:02.899] ------------------------------
+[19:18:02.899] Immortal v2.1
+[19:18:02.903] by Immortal
+[19:18:02.907] SHA256 Hash: ddfb77ef9087d1daeb78c7e45bf994474653bdbd4515abd4374ab7e2e24a2eed
+[19:18:02.908] ------------------------------
